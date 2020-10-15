@@ -1,4 +1,4 @@
-# SASS Build HW1
+# SASS Build and AJAX Build
 
 ## About
 
@@ -14,6 +14,7 @@ A modern browser
 2. CSS
 3. JS
 4. SASS
+5. AJAX
 
 ## Installation
 
